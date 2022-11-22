@@ -3,18 +3,18 @@
     <channel>
         <title>IDE</title>
         <description>news about IDEs</description>
-        <link>http://example.org/</link>
+        <link>https://github.com/a22gabrielmv/rss</link>
         <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
         <managingEditor>a22gabrielmv@iessanclemente.net</managingEditor>
         <item>
             <title>netbeans</title>
-            <link>https://a22gabrielmv.github.io/rss/</link>
+            <link>https://github.com/a22gabrielmv/rss/blob/master/netbeans.html</link>
             <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
             <description>cosas netbeans</description>
         </item>
         <item>
             <title>vscode</title>
-            <link>https://a22gabrielmv.github.io/rss/</link>
+            <link>https://github.com/a22gabrielmv/rss/blob/master/vscode.html</link>
             <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
             <description>cosas vscode</description>
         </item>

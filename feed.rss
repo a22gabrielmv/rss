@@ -7,10 +7,16 @@
         <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
         <managingEditor>a22gabrielmv@iessanclemente.net</managingEditor>
         <item>
-            <title>Test page</title>
-            <link>http://example.org/test.html</link>
+            <title>netbeans</title>
+            <link>https://a22gabrielmv.github.io/rss/</link>
             <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
-            <description>Some text.</description>
+            <description>cosa netbeans</description>
+        </item>
+        <item>
+            <title>vscode</title>
+            <link>https://a22gabrielmv.github.io/rss/</link>
+            <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
+            <description>cosas vscode</description>
         </item>
     </channel>
 </rss>
